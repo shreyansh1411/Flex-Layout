@@ -1,0 +1,164 @@
+@media(max-width:1137px)
+{
+	.home .content .information{width: 50%;}
+	.home .content .form{width: 50%;}
+	.home .content .information p{font-size: 70px}
+	.home .content .form .details{margin-left:50px}
+	.home .content .information p span{font-size: 20px}
+}
+
+
+@media(max-width:1066px)
+{
+	.home .content .information{width: 50%;}
+	.home .content .form{width: 50%;}
+	
+	.service .info {margin-left:110px;}
+	.service .info .details {width: 50%;}
+	.offer .row1 .details{width: 50%;margin-right: 0}
+	.footer .details{width: 50%;}
+	.footer .details h5{margin-left: 50px;}
+	.footer .details p{margin-left: 80px;}
+	/*.home .content .form .details{margin-left:50px}*/
+}
+
+@media(max-width:1016px)
+{
+	.home .content .information{width: 50%;}
+	.home .content .form{width: 50%;}
+
+	.work .info .details{width: 50%;}
+	
+	.service .info {margin-left:110px;}
+	.service .info .details {width: 50%;}
+	
+	.footer .details{width: 50%;}
+	.footer .details h5{margin-left: 50px;}
+	.footer .details p{margin-left: 80px;}
+	/*.home .content .form .details{margin-left:50px}*/
+}
+
+@media(max-width:893px)
+{
+	.home .content .information{width: 50%;}
+	.home .content .form{width: 50%;}
+	
+	.service .info {margin-left:110px;}
+	.service .info .details {width: 50%;}
+
+	.work .info .details{width: 50%;}
+
+	.client .review .info{width: 50%;}
+	
+	.about .img{width: 100%;}
+	.about .info{width: 100%;}
+	
+	.blog .details .info{width: 50%;}
+	.blog .details .info h4{text-align: center;}
+	.blog .details .info p{text-align: center;}
+	
+	.footer .details{width: 50%;}
+	.footer .details h5{margin-left: 50px;}
+	.footer .details p{margin-left: 80px;}
+
+	/*.home .content .form .details{margin-left:50px}*/
+}
+
+@media(max-width:748px)
+{
+	.home .header .nav{width:80%;}
+	.home .header .nav .menu .main i{display: block;}
+	.home .header .nav .menu .main a{display: none;}
+	
+	/*.service .info {margin-left:110px;}*/
+	.service .info .details {width: 50%;}
+	
+	
+
+	.about .img{width: 100%;}
+	.about .info{width: 100%;}
+	
+	.blog .details .info{width: 50%;}
+	.blog .details .info h4{text-align: center;}
+	.blog .details .info p{text-align: center;}
+	
+	.footer .details{width: 50%;}
+	.footer .details h5{margin-left: 50px;}
+	.footer .details p{margin-left: 80px;}
+}
+
+@media(max-width:764px )
+{
+	.home .header .nav .menu .main i{display: block;}
+	.home .header .nav .menu .main a{display: none;}
+	.home .content .information{width: 100%;}
+	.home .content .information p{font-size: 70px}
+	.home .content .form .details{margin-left:150px}
+	.home .content .information p span{font-size: 20px}
+	
+	.service .info {margin-left:50px;}
+	.service .info .details {width: 50%;}
+
+	.offer .row2 .details {width: 50%;}
+
+	.work .info .details{width: 50%;}
+
+	.client .review .info{width: 50%;}
+	
+	.about .img{width: 100%;}
+	.about .info{width: 100%;}
+	
+	.blog .details .info{width: 100%;}
+	.blog .details .info h4{text-align: center;}
+	.blog .details .info p{text-align: center;}
+	
+	.footer .details{width: 50%;}
+	.footer .details h5{margin-left: 50px;}
+	.footer .details p{margin-left: 80px;}
+}
+
+
+@media(max-width:582px )
+{
+	.home .content .information{width: 100%;}
+	.home .content .information p{font-size: 70px}
+	.home .content .form .details{margin-left:60px}
+	.home .content .information p span{font-size: 20px}
+
+}
+
+
+@media(max-width:500px )
+{
+	/*.home .header{height: 200px;}*/
+	.home .header .logo{width: 20%;}
+	.home .header .nav{width:80%;}
+	.home .header .nav .menu .main i{display: block;}
+	.home .header .nav .menu .main a{display: none;}
+	.home .content{width: 100%;}
+	.home .content .form{width: 100%}
+	.home .content .form .details{margin-left:18px}
+	.home .content .information{width: 100%;}
+	.home .content .information p{font-size: 70px}
+	.home .content .information p span{font-size: 20px}
+	
+	.service .info {margin-left:110px;}
+	.service .info .details {width: 100%;}
+
+	.offer .row1 .details {width: 100%;}
+	
+	/*.client .review .info{width: 50%;}*/
+
+	
+	.about .img{width: 100%;}
+	.about .info{width: 100%;}
+	
+	.blog .details .info{width: 100%;}
+	.blog .details .info h4{text-align: center;}
+	.blog .details .info p{text-align: center;}
+	
+	.footer .details{width: 100%;}
+	.footer .details h5{margin-left: 130px;}
+	.footer .details p{margin-left: 150px;}
+}
+
