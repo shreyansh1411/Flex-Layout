@@ -249,12 +249,12 @@
 .offer .row1 .details
 {
 	height: auto;
-	width: 24%;
+	width: 25%;
 	border: 2px solid black;
 	/*margin: 15px;*/
 	text-align: center;
 	position: relative;
-	margin-right: 14px;
+	/*margin-right: 10px;*/
 }
 
 .offer .row1 .details .price
@@ -319,8 +319,8 @@
 .offer .row1 .details button
 {
 	margin: 13px;
-	padding: 10px 30px;
-	border-radius: 3px;
+	padding: 10px 20px;
+	border-radius: 10px;
 	font-size: 20px;
 }
 
@@ -342,12 +342,12 @@
 .offer .row2 .details
 {
 	height: auto;
-	width: 24%;
+	width: 25%;
 	border: 2px solid black;
 	/*margin: 0 px;*/
 	text-align: center;
 	position: relative;
-	margin-right: 14px;
+	/*margin-right: 10px;*/
 }
 
 .offer .row2 .details .price
@@ -412,8 +412,8 @@
 .offer .row2 .details button
 {
 	margin: 13px;
-	padding: 10px 30px;
-	border-radius: 3px;
+	padding: 10px 10px;
+	border-radius: 10px;
 	font-size: 20px;
 }
 
