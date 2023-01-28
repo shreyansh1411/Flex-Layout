@@ -1,10 +1,18 @@
-@media(max-width:1137px)
+@media(max-width:1134px)
 {
 	.home .content .information{width: 50%;}
 	.home .content .form{width: 50%;}
 	.home .content .information p{font-size: 70px}
 	.home .content .form .details{margin-left:50px}
+	
 	.home .content .information p span{font-size: 20px}
+	.offer .row1 .details {width: :24%;}
+	.offer .row1 .details button{padding: 0px 0px;}
+	.offer .row1 .details .price{top:12 8px;}
+
+	.offer .row2 .details {width: :24%;}
+	.offer .row2 .details button{padding: 0px 0px;}
+	.offer .row2 .details .price{top:118px;}
 }
 
 
@@ -13,12 +21,24 @@
 	.home .content .information{width: 50%;}
 	.home .content .form{width: 50%;}
 	
-	.service .info {margin-left:110px;}
+	/*.service .info {margin-left:110px;}*/
 	.service .info .details {width: 50%;}
+	
 	.offer .row1 .details{width: 50%;margin-right: 0}
+	.offer .row1 .details button{padding: 10px 30px;}
+	.offer .row1 .details .price{top:232px;}
+	
+	.offer .row2 .details .price{top:232px;}
+	.offer .row2 .details{width: 50%;margin-right: 0}
+	.offer .row2 .details button{padding: 10px 30px;}
+
+	.work .info .details{width: 50%;}
+
+	.client .review .info{width: 50%;margin-top: 10px;}
+
 	.footer .details{width: 50%;}
-	.footer .details h5{margin-left: 50px;}
-	.footer .details p{margin-left: 80px;}
+	/*.footer .details h5{margin-left: 50px;}*/
+	/*.footer .details p{margin-left: 80px;}*/
 	/*.home .content .form .details{margin-left:50px}*/
 }
 
@@ -42,9 +62,19 @@
 {
 	.home .content .information{width: 50%;}
 	.home .content .form{width: 50%;}
+	.home .content .form .details{margin: 0 0;}
 	
-	.service .info {margin-left:110px;}
+	/*.service .info {margin-left:110px;}*/
 	.service .info .details {width: 50%;}
+
+	/*.offer .row1 .details {width: 50%;}
+	.offer .row2 .details {width: 50%;}
+
+	.offer .row1 .details button{padding: 10px 20px;}
+	.offer .row2 .details button{padding: 10px 20px;}
+
+	.offer .row1 .details .price{top:185px;}
+	.offer .row2 .details .price{top:185px;}*/
 
 	.work .info .details{width: 50%;}
 
@@ -58,11 +88,13 @@
 	.blog .details .info p{text-align: center;}
 	
 	.footer .details{width: 50%;}
-	.footer .details h5{margin-left: 50px;}
-	.footer .details p{margin-left: 80px;}
+	/*.footer .details h5{margin-left: 50px;}*/
+	/*.footer .details p{margin-left: 50px;}*/
 
 	/*.home .content .form .details{margin-left:50px}*/
 }
+
+
 
 @media(max-width:748px)
 {
@@ -73,7 +105,8 @@
 	/*.service .info {margin-left:110px;}*/
 	.service .info .details {width: 50%;}
 	
-	
+	.offer .row1 .details .price{top:200px;}
+	.offer .row2 .details .price{top:150px;}
 
 	.about .img{width: 100%;}
 	.about .info{width: 100%;}
@@ -87,6 +120,12 @@
 	.footer .details p{margin-left: 80px;}
 }
 
+/*@media(max-width:748px)
+{
+	.offer .row1 .details .price{top:160px;}
+	.offer .row2 .details .price{top:160px;}
+}
+*/
 @media(max-width:764px )
 {
 	.home .header .nav .menu .main i{display: block;}
@@ -99,7 +138,16 @@
 	.service .info {margin-left:50px;}
 	.service .info .details {width: 50%;}
 
+	/*.offer .row2 .details {width: 50%;}*/
+
+	.offer .row1 .details {width: 50%;}
 	.offer .row2 .details {width: 50%;}
+
+	.offer .row1 .details button{padding: 10px 10px;}
+	.offer .row2 .details button{padding: 10px 10px;}
+
+	.offer .row1 .details .price{top:150px;}
+	.offer .row2 .details .price{top:150px;}
 
 	.work .info .details{width: 50%;}
 
@@ -125,6 +173,15 @@
 	.home .content .form .details{margin-left:60px}
 	.home .content .information p span{font-size: 20px}
 
+	.offer .row1 .details {width: 100%;}
+	.offer .row2 .details {width: 100%;}
+
+	.offer .row1 .details button{padding: 10px 30px;}
+	.offer .row2 .details button{padding: 10px 30px;}
+
+	.offer .row1 .details .price{top:200px;}
+	.offer .row2 .details .price{top:200px;}
+
 }
 
 
@@ -134,20 +191,30 @@
 	.home .header .logo{width: 20%;}
 	.home .header .nav{width:80%;}
 	.home .header .nav .menu .main i{display: block;}
+	/*.home .header .nav .menu .main i{margin-top: 50px;}*/
 	.home .header .nav .menu .main a{display: none;}
 	.home .content{width: 100%;}
 	.home .content .form{width: 100%}
-	.home .content .form .details{margin-left:18px}
+	.home .content .form .details{margin-left:15px}
 	.home .content .information{width: 100%;}
-	.home .content .information p{font-size: 70px}
+	.home .content .information p{font-size: 60px}
 	.home .content .information p span{font-size: 20px}
 	
 	.service .info {margin-left:110px;}
 	.service .info .details {width: 100%;}
 
 	.offer .row1 .details {width: 100%;}
+	.offer .row2 .details {width: 100%;}
+
+	.offer .row1 .details button{padding: 10px 30px;}
+	.offer .row2 .details button{padding: 10px 30px;}
+
+	.offer .row1 .details .price{top:200px;}
+	.offer .row2 .details .price{top:200px;}
+
+	.work .info .details{width: 100%;}
 	
-	/*.client .review .info{width: 50%;}*/
+	.client .review .info{width: 100%;margin-top: 10px;}
 
 	
 	.about .img{width: 100%;}
